@@ -1,0 +1,6 @@
+venv/
+pycache/
+*.h5
+data/
+datasets/
+*.csv
